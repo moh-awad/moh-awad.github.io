@@ -3537,7 +3537,8 @@ Created using IcoMoon - icomoon.io
     margin-top: -60px;
     padding: 0 15px;
     width: 100%;
-    color: rgba(255, 255, 255, 0.5); }
+    color: rgba(255, 255, 255, 0.5); 
+  }
 
 .landing-page .header {
   height: 100vh;
@@ -3837,7 +3838,8 @@ Created using IcoMoon - icomoon.io
     top: 0;
     content: ""; }
   .page-header:before {
-    background-color: rgba(0, 0, 0, 0.5); }
+    background-color: rgba(0, 0, 0, 0.5); 
+  }
   .page-header[filter-color="orange"] {
     background: rgba(44, 44, 44, 0.2);
     /* For browsers that do not support gradients */
